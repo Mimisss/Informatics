@@ -1,3 +1,5 @@
-# Εισαγωγικά μαθήματα στον προγραμματισμό με τη γλώσσα Python.
+# Εισαγωγή στον προγραμματισμό με Python
 
-Βασισμένο στο βιβλίο *Think Python* του Allen B. Downey.
+[*Σκέψου σε Python*, Allen B. Downey](https://www.klidarithmos.gr/skepsou-se-python/).
+
+![Σκέψου σε Python](https://www.klidarithmos.gr/wp-content/uploads/2025/07/36027-1.jpg)
