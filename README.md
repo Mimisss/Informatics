@@ -1,6 +1,6 @@
 # Informatics για μαθητές γυμνασίου
 
-Μαθήματα προγραμματισμού για μαθητές που θέλουν να προγραμματίσουν για το web, τον υπολογιστή ή το Arduino.
+Μαθήματα προγραμματισμού για μαθητές που θέλουν να προγραμματίσουν για το web, τον υπολογιστή ή το Arduino γράφοντας κώδικα σε JavaScript, Python, C και HTML.
 
 ## Βιβλία
 
@@ -16,3 +16,21 @@
 | Πως να σκέπτεστε σαν επιστήμονας των υπολογιστών |
 | [Public](https://www.public.gr/product/books/greek-books/computer-science/programming/skepsou-se-python/1607530?utm_source=google&utm_medium=cpc&utm_campaign=PMax_Books_Villains&gad_source=1&gad_campaignid=22693105642&gbraid=0AAAAADynTRYvs03K1oKRgEhkPv462F6N8&gclid=CjwKCAjw-J3OBhBuEiwAwqZ_h2vOcuGHwyTxUvtTuHZ7ggHgjzigpQk9l5qZcUsDw-S0i-7JkNpdkhoC6XAQAvD_BwE) [Κλειδάριθμος](https://www.klidarithmos.gr/skepsou-se-python/) |
 
+## Εργαλεία
+
+### Για αρχάριους μαθητές
+
+- [Notepad++](https://notepad-plus-plus.org/)
+- [EduBlocks](https://edublocks.org/)
+
+### Για μαθητές μεσαίου επιπέδου
+
+- [PythonAnywhere](https://www.pythonanywhere.com/)
+- [IDLE](https://www.python.org/downloads/)
+- [Arduino IDE](https://www.arduino.cc/en/software/)
+- Chrome, Edge, Firefox Dev Tools
+
+### Για προχωρημένους μαθητές
+
+- [Visual Studio Code]()
+- [Arduino IDE](https://www.arduino.cc/en/software/)
